@@ -24,3 +24,5 @@ zero_copy-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+/c_src/**.o
